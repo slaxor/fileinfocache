@@ -1,8 +1,8 @@
-module git.t5l.de/slaxor/sandbox/fileinfocache
+module github.com/slaxor/fileinfocache
 
 go 1.13
 
 require (
-	github.com/davecgh/go-spew v1.1.1
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/stretchr/testify v1.4.0
 )
